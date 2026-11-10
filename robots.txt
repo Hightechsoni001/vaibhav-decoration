@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hightechsoni001.github.io/vaibhav-decoration/sitemap.xml
